@@ -1,2 +1,2 @@
-#!/bin/bash 
-ls -lvam .
+#!/bin/bash
+ls -lv -a -m .
