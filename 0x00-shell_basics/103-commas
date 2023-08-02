@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lv -a -m .
+ls -lv -a -m -p .
