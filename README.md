@@ -1,1 +1,1 @@
-learning shell permissions
+learning shell basics
