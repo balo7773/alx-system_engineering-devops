@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOWLEDG=$((64+64))
+echo $((64+$TRUEKNOWLEDGE))
