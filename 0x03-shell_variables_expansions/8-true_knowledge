@@ -1,2 +1,3 @@
-#!/bin/bash
-echo -e $(($TRUEKNOWLEDGE+128))
+#!/biin/bash
+TRUEKNOWLEDGE=89
+echo $(($TRUEKNOWLEDGE+128))
