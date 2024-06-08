@@ -1,1 +1,1 @@
-`Learning web infrastructure`
+`Learning web infrastructure directory
