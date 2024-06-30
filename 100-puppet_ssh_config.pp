@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 # manifest to setup ssh config file
 
 file { '/etc/ssh/ssh_config':
